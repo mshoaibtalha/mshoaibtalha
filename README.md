@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mshoaibtalha
-- 👀 I’m interested in C# asp.net and react
-- 🌱 I’m currently learning reacts
+- 👀 I’m interested in C# asp.net and reactjs.
+- 🌱 I’m currently learning reactjs and react native.
 
 
 <!---
