@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mshoaibtalha
-- 👀 I’m interested in javascript,python reactjs.
+- 👀 I’m interested in javascript,python reactjs and Azure.
 - 🌱 I’m currently learning reactjs and react native.
 
 
