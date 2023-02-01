@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mshoaibtalha
-- 👀 I’m interested in javascript,python reactjs and Azure.
-- 🌱 I’m currently preparing for Microsoft az-204 Certification.
+- 👀 I’m interested in javascript ,Typescript,Redux, Node js ,Express js,reactjs and Azure.
+
 
 
 <!---
