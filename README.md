@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mshoaibtalha
-- 👀 I have experience in developing web and mobilbes app with javascript ,Typescript,Redux, Node js ,Express js,reactjs,React Native and Azure.
+- 👀 I have experience in developing web and mobiles app with javascript ,Typescript,Redux, Node js ,Express js,reactjs,React Native and Azure.
 
 
 
