@@ -10,7 +10,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: Focusing on FE and TS.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChrisOBrien-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-o-brien-314791212/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChrisOBrien-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-shoaib-pak/)
 
 <br/>
 <hr/>
