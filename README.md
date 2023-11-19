@@ -38,7 +38,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/chrisobrien88">
+          <a href="https://github.com/mshoaibtalha">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshoaibtalha&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="My GitHub Language Stats" vertical-align="middle"/>
           </a>
         </div>
